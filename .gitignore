@@ -1,0 +1,8 @@
+node_modules/*
+.buildpath
+.project
+.settings/
+.idea/
+.sublime-project
+.zfproject.xml
+!.gitkeep
