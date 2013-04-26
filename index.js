@@ -5,4 +5,4 @@
  * Time: 16:40
  */
 
-module.exports = new (require('./lib/swift').Swift)();
+module.exports = new (require('./lib/application').Application)();
