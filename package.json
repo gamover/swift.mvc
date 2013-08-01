@@ -2,7 +2,7 @@
     "author": "G@mOBEP <rusmiran@gmail.com>",
     "name": "swift.mvc",
     "description": "mvc",
-    "version": "0.0.17",
+    "version": "0.0.18",
     "repository": {
         "type": "git",
         "url": "https://github.com/gamover/swift.mvc.git#master"
@@ -10,6 +10,7 @@
     "dependencies": {
         "express": "*",
         "cli-color": "0.2.2",
+        "async": "0.2.9",
 
         "swift.errors": "*",
         "swift.utils": "*",
