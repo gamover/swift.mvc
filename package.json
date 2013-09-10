@@ -2,13 +2,13 @@
     "author": "G@mOBEP <rusmiran@gmail.com>",
     "name": "swift.mvc",
     "description": "mvc",
-    "version": "0.0.21",
+    "version": "0.0.22",
     "repository": {
         "type": "git",
         "url": "https://github.com/gamover/swift.mvc.git#master"
     },
     "dependencies": {
-        "express": "*",
+        "express": "3.2.0",
         "cli-color": "0.2.2",
         "async": "0.2.9",
 
